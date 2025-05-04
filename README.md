@@ -13,7 +13,7 @@ Git is a powerful, distributed version control system that enables teams to trac
 # Git - Resources and Tasks
 
 - Resources:
-  - [Interactive Git Learning Platform](https://learngitbranching.js.org) No need for doing the advance topics in both remote/main.
+  - [Interactive Git Learning Platform](https://learngitbranching.js.org) No need for doing the advance topics in both remote/main. Attach full-screen screenshots after solving the modules to your documentation.
   - [Git Cheatsheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet/)
 - Extra Resources 
   - [Reference + Extra Reading](http://gitimmersion.com/index.html)
